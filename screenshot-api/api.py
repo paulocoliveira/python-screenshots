@@ -3,7 +3,7 @@ import requests
 import os
 from time import sleep
 
-# API documentation: https://www.lambdatest.com/support/docs/automated-screenshot-api-for-cross-browser-testing/
+# API documentation: https://www.lambdatest.com/support/api-doc/?key=automated-screenshot-api
 
 username = os.getenv("LT_USERNAME")
 accessKey = os.getenv("LT_ACCESS_KEY")
